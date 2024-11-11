@@ -63,7 +63,7 @@ btn1=tk.Button(win,text='按我',
                command=btn_click,
                image=btn_photo,
                compound='left',
-               state=tk.DISABLED
+               # state=tk.DISABLED
                )
 #建立畫布
 #為畫面建立影像
